@@ -1,3 +1,3 @@
 # soccer_analysis
-** bold **
-Analyzing goal trends
+
+**Analyzing goal trends**
